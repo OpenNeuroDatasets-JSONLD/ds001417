@@ -1,1 +1,13 @@
-{"BIDSVersion":"1.0.1","Name":"CAT snacks functional plasticity","Authors":["Rotem Botvinik-Nezer, Tom Salomon and Tom Schonberg"],"Funding":"Israel Science Foundation (ISF) grant no. 1798/15 granted to Tom Schonberg","HowToAcknowledge":"https://www.biorxiv.org/content/early/2018/07/05/363044"}
+{
+    "Name": "CAT snacks functional plasticity",
+    "License": "",
+    "Authors": [
+        "Rotem Botvinik-Nezer"
+    ],
+    "Acknowledgements": "",
+    "HowToAcknowledge": "https://www.biorxiv.org/content/early/2018/07/05/363044",
+    "Funding": "Israel Science Foundation (ISF) grant no. 1798/15 granted to Tom Schonberg",
+    "ReferencesAndLinks": [],
+    "DatasetDOI": "",
+    "BIDSVersion": "1.0.1"
+}
