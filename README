@@ -14,3 +14,5 @@ There is a derivatives directory in which the following data is included:
 * .tsv files for the motion confounds of each first level analysis.
 * design.fsf files for all levels of analyses.
 * Masks for the small volume correction (SVC) analyses.
+
+Please cite https://doi.org/10.1093/cercor/bhz132
